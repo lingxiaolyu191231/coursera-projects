@@ -21,11 +21,11 @@
 2. Then run following files as needed.
     - For tweet_sentiment.py \
         $ python tweet_sentiment.py AFINN-111.txt output.txt
-    - For term_sentiment.py
-    $ python term_sentiment.py AFINN-111.txt output.txt
-    - For frequency.py
-    $ python frequency.py output.txt
-    - For happiest_state.py
-    $ python happiest_state.py AFINN-111.txt output.txt
-    - For top_ten.py
-    $ python top_ten.py output.txt
+    - For term_sentiment.py \
+        $ python term_sentiment.py AFINN-111.txt output.txt
+    - For frequency.py \
+        $ python frequency.py output.txt
+    - For happiest_state.py \
+        $ python happiest_state.py AFINN-111.txt output.txt
+    - For top_ten.py \ 
+        $ python top_ten.py output.txt
