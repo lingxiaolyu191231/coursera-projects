@@ -19,8 +19,8 @@
 1. First, run twitterstream.py to export streaming tweets into a text file with tweet info in json format
     $ python twitterstream.py > output.txt (name any file as you prefer)
 2. Then run following files as needed.
-    - For tweet_sentiment.py
-    $ python tweet_sentiment.py AFINN-111.txt output.txt
+    - For tweet_sentiment.py \
+        $ python tweet_sentiment.py AFINN-111.txt output.txt
     - For term_sentiment.py
     $ python term_sentiment.py AFINN-111.txt output.txt
     - For frequency.py
