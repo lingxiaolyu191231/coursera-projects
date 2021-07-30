@@ -16,7 +16,7 @@
     Calculate the Top 10 hashtags most frequently appeared in all tweets
     
 ## Inustruction:
-1. First, run twitterstream.py to export streaming tweets into a text file with tweet info in json format
+1. First, run twitterstream.py to export streaming tweets into a text file with tweet info in json format \
     $ python twitterstream.py > output.txt (name any file as you prefer)
 2. Then run following files as needed.
     - For tweet_sentiment.py \
