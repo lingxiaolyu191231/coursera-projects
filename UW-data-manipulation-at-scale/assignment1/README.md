@@ -20,14 +20,27 @@
     $ python twitterstream.py > output.txt (name any file as you prefer)
 2. Then run following files as needed.
     - For tweet_sentiment.py \
+    \
     ```ruby
         $ python tweet_sentiment.py AFINN-111.txt output.txt
     ```
     - For term_sentiment.py \
+    \
+    ```ruby
         $ python term_sentiment.py AFINN-111.txt output.txt
+    ```
     - For frequency.py \
+    \
+    ```ruby
         $ python frequency.py output.txt
+    ```
     - For happiest_state.py \
+    \
+    ```ruby
         $ python happiest_state.py AFINN-111.txt output.txt
-    - For top_ten.py \ 
+    ```
+    - For top_ten.py \
+    \
+    ```ruby
         $ python top_ten.py output.txt
+    ```
